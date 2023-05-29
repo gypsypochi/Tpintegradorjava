@@ -1,0 +1,55 @@
+#navegador .navbar {
+  background-color: black;
+  display: flex;
+  align-items: center;
+  }
+  .navbar-text,
+  .navbar-brand,
+  .nav-link {
+  color: white !important;
+  }
+  .nav-link.text-danger {
+  color: red !important;
+  }
+
+
+#contenedor .custom-bg {
+    background-color: #08086A;
+  }
+  
+ #formulario .form-container {
+    border: 2px solid #007bff;
+    padding: 20px;
+  }
+
+
+
+  #tarjeta1 .card-title {
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+  }
+  #tarjeta1 .card-text {
+    text-align: justify;
+  }
+
+  #tarjeta2 .card-title {
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+  }
+  #tarjeta2 .card-text {
+    text-align: justify;
+  }
+
+  #tarjeta3 .card-title {
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+  }
+  #tarjeta3 .card-text {
+    text-align: justify;
+  }
+  
+  
+  
